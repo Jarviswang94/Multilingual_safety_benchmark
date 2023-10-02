@@ -12,7 +12,7 @@ All Languages Matter: On the Multilingual Safety of Large Language Model.
 
 ## 💡Framework
 <div align="center">
-  <img src="paper/framework.jpg" alt="Logo" width="800">
+  <img src="paper/framework.jpg" alt="Logo" width="1000">
 </div>
 
 
