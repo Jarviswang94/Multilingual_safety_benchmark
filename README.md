@@ -3,7 +3,7 @@ All Languages Matter: On the Multilingual Safety of Large Language Model.
 <br>   <br>
 
 <div align="center">
-  <img src="paper/Overview.png" width="1000">
+  <img src="paper/Overview.png" width="800">
 </div>
 
 <h3 align="center">RESEARCH USE ONLY✅ NO MISUSE❌</h3>
@@ -23,11 +23,11 @@ We utilize XSafety to empirically study the multilingual safety for 4 widely-use
 ## 📃Results
 
 <div align="center">
-  <img src="paper/result1.jpg" alt="Logo" width="1000">
+  <img src="paper/result1.jpg" alt="Logo" width="800">
 </div>
 
 <div align="center">
-  <img src="paper/result2.jpg" alt="Logo" width="1000">
+  <img src="paper/result2.jpg" alt="Logo" width="800">
 </div>
 
 
