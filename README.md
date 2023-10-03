@@ -34,7 +34,7 @@ We utilize XSafety to empirically study the multilingual safety for 4 widely-use
 
 
 ## 👉 Paper and Citation
-For more details, please refer to our paper <a href="">here</a>.
+For more details, please refer to our paper <a href="http://arxiv.org/abs/2310.00905">here</a>.
 
 
 Community Discussion:
