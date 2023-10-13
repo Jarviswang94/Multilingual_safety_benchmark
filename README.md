@@ -45,7 +45,7 @@ Community Discussion:
 If you find our paper&data interesting and useful, please feel free to give us a star and cite us through:
 ```bibtex
 @article{wang2023all,
-  title={ALL LANGUAGES MATTER: ON THE MULTILINGUAL SAFETY OF LARGE LANGUAGE MODELS},
+  title={All Languages Matter: On the Multilingual Safety of Large Language Models},
   author={Wang, Wenxuan and Tu, Zhaopeng and Chen, Chang and Yuan, Youliang and Huang, Jen-tse and Jiao, Wenxiang and Lyu, Michael R},
   journal={arXiv preprint arXiv:2310.00905},
   year={2023}
