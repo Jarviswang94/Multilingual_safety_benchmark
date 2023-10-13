@@ -1,5 +1,5 @@
 <h1 align="center">Multilingual Safety Benchmark for LLMs</h1>
-All Languages Matter: On the Multilingual Safety of Large Language Model. 
+Paper: All Languages Matter: On the Multilingual Safety of Large Language Model. 
 <br>   <br>
 
 <div align="center">
@@ -44,7 +44,11 @@ Community Discussion:
 
 If you find our paper&data interesting and useful, please feel free to give us a star and cite us through:
 ```bibtex
-@misc{
+@article{wang2023all,
+  title={ALL LANGUAGES MATTER: ON THE MULTILINGUAL SAFETY OF LARGE LANGUAGE MODELS},
+  author={Wang, Wenxuan and Tu, Zhaopeng and Chen, Chang and Yuan, Youliang and Huang, Jen-tse and Jiao, Wenxiang and Lyu, Michael R},
+  journal={arXiv preprint arXiv:2310.00905},
+  year={2023}
 }
 ```
 
